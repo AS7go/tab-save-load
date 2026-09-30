@@ -197,7 +197,7 @@ document.getElementById('fileInput').addEventListener('change', async (event) =>
 
 Вы можете установить и протестировать расширение в браузере Google Chrome за пару минут:
 
-1. **Скачайте проект** с GitHub (кнопка *Code -> Download ZIP*) или склонируйте репозиторий, либо просто подготовьте папку `TabSaveLoad` на компьютере со всеми четырьмя файлами (`manifest.json`, `popup.html`, `popup.js`, `icon.png`).
+1. **Скачайте проект** с GitHub (кнопка *Code -> Download ZIP*) или склонируйте репозиторий, либо просто подготовьте папку `tab-save-load` на компьютере со всеми четырьмя файлами (`manifest.json`, `popup.html`, `popup.js`, `icon.png`).
 2. Откройте браузер Google Chrome и перейдите по служебному адресу:
    ```text
    chrome://extensions/
@@ -205,6 +205,6 @@ document.getElementById('fileInput').addEventListener('change', async (event) =>
 
 4. В левом верхнем углу нажмите кнопку «Загрузить распакованное расширение» (Load unpacked).
 
-5. В открывшемся окне проводника выберите вашу папку с проектом TabSaveLoad.
+5. В открывшемся окне проводника выберите вашу папку с проектом tab-save-load.
 
 Готово! Иконка расширения появится на панели браузера. Нажмите на неё, чтобы использовать функции сохранения или загрузки вкладок.
