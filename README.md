@@ -8,7 +8,7 @@
 
 ## 🎥 Видеообзор
 
-[![Tab Save Load — видеообзор](https://img.youtube.com/vi/Xy-TOU82UvM/hqdefault.jpg)](https://youtu.be/Xy-TOU82UvM)
+[![Tab Save Load — видеообзор](https://img.youtube.com/vi/Xy-TOU82UvM/maxresdefault.jpg)](https://youtu.be/Xy-TOU82UvM)
 
 ▶️ [Смотреть на YouTube](https://youtu.be/Xy-TOU82UvM)
 
