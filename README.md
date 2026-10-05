@@ -1,6 +1,16 @@
-# 📂 tab-save-load — Менеджер вкладок для Google Chrome
+# 📂 Tab Save Load
 
-Минималистичное и удобное расширение для Google Chrome (Manifest V3), которое позволяет сохранять все открытые вкладки текущего окна в текстовый файл, а затем восстанавливать их обратно в один клик.
+![Иконка](icon.png)
+
+Расширение Chrome для сохранения всех открытых вкладок в текстовый файл и их восстановления в один клик.
+
+---
+
+## 🎥 Видеообзор
+
+[![Tab Save Load — видеообзор](https://img.youtube.com/vi/Xy-TOU82UvM/hqdefault.jpg)](https://youtu.be/Xy-TOU82UvM)
+
+▶️ [Смотреть на YouTube](https://youtu.be/Xy-TOU82UvM)
 
 ---
 
@@ -208,3 +218,14 @@ document.getElementById('fileInput').addEventListener('change', async (event) =>
 5. В открывшемся окне проводника выберите вашу папку с проектом tab-save-load.
 
 Готово! Иконка расширения появится на панели браузера. Нажмите на неё, чтобы использовать функции сохранения или загрузки вкладок.
+
+---
+
+## 👤 Автор
+
+**AS7go** — разработчик расширения Tab RAM Cleaner.
+
+- 🐙 GitHub: [@AS7go](https://github.com/AS7go)
+- 📺 YouTube: [Мой канал](https://www.youtube.com/channel/UCQ3sX5SfuoL8F2wagAt_UCg)
+
+Если расширение оказалось полезным — поставьте звёздочку на GitHub ⭐
